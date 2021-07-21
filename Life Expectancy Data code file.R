@@ -1,4 +1,4 @@
-#We are considering the LIFE EXPECTANCY DATA for our analysi and the target variable has been specified.
+#We are considering the LIFE EXPECTANCY DATA for our analysis and the target variable has been specified.
 #Importing the raw data
 ##Target variable is life expectancy
 LifeExpectancyData=read.csv('D:/Ivy/R/Life Expectancy Data.csv', na.strings = c(""," ","NA","NULL"))
